@@ -32,7 +32,7 @@
 
 Release v1.0.5
 
-Updated LibreHardwareMonitor to latest version (0.9.4), should fix issues with Windows 11 false positive virus detection on start.
+Updated LibreHardwareMonitor to latest version (0.9.4), ~~should fix issues with Windows 11 false positive virus detection on start~~ (Not fixed yet).
 
 Release v1.0.1
 
