@@ -28,11 +28,13 @@
 
 ## News
 
-##### 29 August 2022
+##### 12 October 2025
 
 Release v1.0.5
 
 Updated LibreHardwareMonitor to latest version (0.9.4), ~~should fix issues with Windows 11 false positive virus detection on start~~ (Not fixed yet).
+
+##### 29 August 2022
 
 Release v1.0.1
 
